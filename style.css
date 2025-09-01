@@ -60,3 +60,12 @@ img{
     padding: 1rem;
     border-radius: 1rem;
 }
+.foot{
+    background-color: #081b31;
+    color: #fff;
+    height: 6rem;
+    margin-top: 3.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
